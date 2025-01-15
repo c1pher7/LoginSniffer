@@ -3,7 +3,7 @@ from termcolor import colored
 import os
 import time
 
-creator = colored("https://github.com/kazovskyy/", "green")
+creator = colored("https://github.com/c1pher7/", "green")
 time.sleep(0.20)
 os.system("clear")
 print(colored("------------------------------", "red"))
