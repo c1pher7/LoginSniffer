@@ -11,7 +11,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/kazovskyy/LoginSniffer/
+git clone https://github.com/c1pher7/LoginSniffer/
 
 cd LoginSniffer
 
